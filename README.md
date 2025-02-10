@@ -12,7 +12,7 @@ A CSS project to practice CSS animations and keyframes. This project is a simple
 
 ## Live Demo
 
-[Ferris Wheel](file:///C:/Users/adali/OneDrive/Desktop/wheel.html)
+[Ferris Wheel](https://quintin-dev.github.io/CSS-Mini_Projects-Ferris_Wheel/)
 
 ## Disclaimer
 
